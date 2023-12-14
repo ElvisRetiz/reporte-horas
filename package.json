@@ -1,0 +1,20 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Elvis Retiz",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.3",
+    "express": "^4.18.1",
+    "sequelize": "^6.20.1",
+    "tedious": "^14.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

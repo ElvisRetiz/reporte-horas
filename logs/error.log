@@ -1,0 +1,4 @@
+13/06/2022 03:06:01 pm - D:\Desarrollos\Winmex\ReporteHoras\backend\src\controllers\reportes.js - SequelizeDatabaseError: Error converting data type varchar to datetime.
+13/06/2022 06:04:06 pm - D:\Desarrollos\Winmex\ReporteHoras\backend\src\controllers\reportes.js - SequelizeDatabaseError: Error converting data type varchar to datetime.
+13/06/2022 06:04:24 pm - D:\Desarrollos\Winmex\ReporteHoras\backend\src\controllers\reportes.js - SequelizeDatabaseError: Error converting data type varchar to datetime.
+13/06/2022 06:04:25 pm - D:\Desarrollos\Winmex\ReporteHoras\backend\src\controllers\reportes.js - SequelizeDatabaseError: Error converting data type varchar to datetime.
